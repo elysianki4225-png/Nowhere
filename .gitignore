@@ -1,0 +1,11 @@
+# test artifacts
+/test/
+/tmp/
+*.tar.gz
+*.zip
+.nowhere-test/
+
+# editor / OS
+.DS_Store
+*.swp
+*~
